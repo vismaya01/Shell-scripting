@@ -14,4 +14,7 @@ do
 	//moving file to created folder
 	mv $eachElement $fileNameWithoutExtension;
 done
+<<<<<<< HEAD
 
+=======
+>>>>>>> test
